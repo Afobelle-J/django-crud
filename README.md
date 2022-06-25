@@ -1,1 +1,1 @@
-# django-crud
+# afoke-uwhubetine
